@@ -16,6 +16,7 @@ venturis-8.5x7.9-all-GP15.blend - contains venturi with 8.5 mm shaft diameter, 7
 Supported engines - recommended size:
 
  - GP15 - 3mm
+ - LA15 - ???
 
 
 @los.circulos
