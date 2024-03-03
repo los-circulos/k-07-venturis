@@ -1,11 +1,12 @@
-# k-07 3d print venturis for glow model engines
+# k-07 3d printed venturis for glow model engines
 
 3d printing heat and chemical resistant venturi tubes is now possible.
 
-Suggested material: Currently I'm printing them from PETG and they seem to work fine. However I don't have long time or summer heat experience yet.
-Nylon would be a more resistant material to use.
+Suggested material: Currently I'm printing them from PA12 (nylon12) with or without CF reinforcment. Plain PETG did not work very well but nylon does.
 
 Print settings: I use slighty higher than necesary temperature for better adhesion. Also, using adhesion skirt (which touches the part) really help with the initial adhesion.
+
+Printing with PA12 and 102.04% scale gives me true size results
 
 I will most probably continue adding designs for more motors.
 
@@ -25,11 +26,9 @@ Supported engines - recommended inner diameter and O ring:
 
  - GP15 - 3mm
  - GP25 - ... / 8x2mm
- - FX25 - ...
+ - FX25 - ... / 11x2mm
  - LA15 - ???
  - LA46 - ???
-
-Printing with PA12 and 102.04% scale gives me true size results
 
 @los.circulos
 instagram.com/los.circulos
